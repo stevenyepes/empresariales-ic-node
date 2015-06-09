@@ -22,7 +22,7 @@ gulp.task('lint', function () {
   return gulp.src(paths.lint)
     .pipe(plugins.jshint('.jshintrc'))
     .pipe(plugins.plumber(plumberConf))
-    .pipe(plugins.jscs())
+    /*.pipe(plugins.jscs())*/
     .pipe(plugins.jshint.reporter('jshint-stylish'));
 });
 
