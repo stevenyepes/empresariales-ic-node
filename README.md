@@ -1,7 +1,7 @@
 # empresariales-ic-node 
 [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url]
 
-The best module ever!
+The best module ever
 
 ## Install
 
