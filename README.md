@@ -1,8 +1,6 @@
 # empresariales-ic-node 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Coverage Status][coveralls-image]][coveralls-url]
 
-[![Coverage Status](https://coveralls.io/repos/jadiosa/empresariales-ic-node/badge.svg?branch=master)](https://coveralls.io/r/jadiosa/empresariales-ic-node?branch=master)
-
 The best module ever!
 
 
@@ -42,5 +40,5 @@ Copyright (c) 2015 jonathan diosa. Licensed under the MIT license.
 [travis-image]: https://travis-ci.org/jadiosa/empresariales-ic-node.svg?branch=master
 [daviddm-url]: https://david-dm.org/jadiosa/empresariales-ic-node.svg?theme=shields.io
 [daviddm-image]: https://david-dm.org/jadiosa/empresariales-ic-node
-[coveralls-url]: https://coveralls.io/r/jadiosa/empresariales-ic-node
-[coveralls-image]: https://coveralls.io/repos/jadiosa/empresariales-ic-node/badge.png
+[coveralls-url]: https://coveralls.io/r/jadiosa/empresariales-ic-node?branch=master
+[coveralls-image]: https://coveralls.io/repos/jadiosa/empresariales-ic-node/badge.png?branch=master
